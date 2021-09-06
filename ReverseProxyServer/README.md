@@ -20,7 +20,7 @@ access url
 # Installation
 ```git clone https://github.com/TakushiTokuyama/Build-a-development-environment-with-Docker.git``` 
 
-# Instructions
+# Instruction
 [hatenaBlog](https://tokuty.hatenablog.com/entry/2021/09/06/docker_%2B_nginx_%2B_tomcat_でhelloworld)
 
 # License
