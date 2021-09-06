@@ -4,6 +4,7 @@
 development environment
 
 # Usage
+```cd NET_Core```
 
 ```docker-compose build```  
 

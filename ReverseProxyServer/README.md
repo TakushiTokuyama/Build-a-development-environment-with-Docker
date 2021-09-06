@@ -9,6 +9,7 @@ Using Docker + nginx + tomcat
 Displyay hello world with reverse proxy
 
 # Usage
+```cd ReverseProxyServer```
 
 ```docker-compose build```  
 
