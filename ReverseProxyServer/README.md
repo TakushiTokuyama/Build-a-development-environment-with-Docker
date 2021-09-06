@@ -18,7 +18,10 @@ access url
 ```http://localhost:80/sample/helloworld.html```  
 
 # Installation
-```git clone ```
+```git clone https://github.com/TakushiTokuyama/Build-a-development-environment-with-Docker.git``` 
+
+# Instructions
+[hatenaBlog](https://tokuty.hatenablog.com/entry/2021/09/06/docker_%2B_nginx_%2B_tomcat_でhelloworld)
 
 # License
 
